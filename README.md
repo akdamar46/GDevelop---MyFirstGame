@@ -1,2 +1,2 @@
 # GDevelop---MyFirstGame
-This is the first mobile game I've made using GDevelop 5.
+This is the first mobile game I've made using GDevelop 5. I cannot share apk file of my game because Git Hub cannot accept files over 25mb. Instead, I am sharing the screen recording of my game here, have a good time...
